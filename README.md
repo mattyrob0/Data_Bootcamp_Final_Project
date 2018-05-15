@@ -20,6 +20,7 @@ the project and course.
 ---------------------------------------------------------------------------------------------------
 
 Project Description
+
 This project analyzes film permits for NYC from the past 6 years. It asks the question: where are people filming in Manhattan
 Analysis is done at the zip code level and looks year-to-year and season-to-season. Additionally, the project seeks a
 correlation with zip code median income. The project concludes with a trend examination.
