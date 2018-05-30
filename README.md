@@ -29,6 +29,4 @@ correlation with zip code median income. The project concludes with a trend exam
 
 May 29th, 2018 Revision
 
-Image cell at head of document changed to support GitHub viewability.
-
-Robinson_Final_Project temp.ipynb is the correct file.
+Image cell at head of document changed to support GitHub viewability. Robinson_Final_Project temp.ipynb is the improved file.
